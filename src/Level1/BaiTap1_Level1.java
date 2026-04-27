@@ -2,7 +2,7 @@ package Level1;
 
 import java.util.Scanner;
 
-public class BaiTap1 {
+public class BaiTap1_Level1 {
     public static void main(String[] args) {
 //        Đề bài:
         System.out.println("Hãy nhập vào 1 chuỗi bất kỳ: ");

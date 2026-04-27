@@ -2,8 +2,9 @@ package Level1;
 
 import java.util.Scanner;
 
-public class BaiTap3 {
+public class BaiTap3_Level1 {
     public static void main(String[] args) {
+//        Viết một hàm tính tổng các số chẵn từ 0 đến một số nguyên dương n cho trước
         Scanner scan = new Scanner(System.in);
 
         System.out.print("Nhập vào số nguyên dương n: ");

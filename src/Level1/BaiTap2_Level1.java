@@ -2,12 +2,12 @@ package Level1;
 
 import java.util.Scanner;
 
-public class BaiTap2 {
+public class BaiTap2_Level1 {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
 
-        // ===== BƯỚC 1: nhập số phần tử (có validate) =====
+        // ===== BƯỚC 1: nhập số phần tử của mảng =====
         int input;
         while (true) {
             System.out.print("Bạn muốn tạo một mảng số nguyên gồm bao nhiêu phần tử? Hãy nhập 1 số cụ thể: ");
@@ -32,7 +32,7 @@ public class BaiTap2 {
 
         int[] inputArr = new int[input];
 
-        // ===== BƯỚC 2: nhập từng phần tử của mảng =====
+        // ===== BƯỚC 2: gán giá trị cho mảng =====
         System.out.println("Hãy gán giá trị cụ thể cho mảng của bạn: ");
         for (int i = 0; i < input; i++) {
             while (true) {

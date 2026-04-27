@@ -2,7 +2,7 @@ package Level2;
 
 import java.util.Scanner;
 
-public class BaiTap3 {
+public class BaiTap3_Level2 {
     public static void main(String[] args) {
 //        Đề bài: Viết một hàm xóa các ký tự lặp lại trong chuỗi (hàm nhận vào một chuỗi và trả về chuỗi mới không chứa ký tự lặp lại)
 //        Bước 1: Kêu người dùng nhập vào một chuỗi bất kỳ
